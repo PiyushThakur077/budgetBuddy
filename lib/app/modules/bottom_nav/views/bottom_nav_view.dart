@@ -13,7 +13,7 @@ class BottomNavView extends GetView<BottomNavController> {
     HomeView(),
     Container(),
     Container(),
-    Container()
+    Container()   
   ];
 
   @override
