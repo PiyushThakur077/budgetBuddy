@@ -15,7 +15,7 @@ class BottomNavView extends GetView<BottomNavController> {
     Container(),
     Container()   
   ];
-
+      
   @override
   Widget build(BuildContext context) {
     return Obx(
